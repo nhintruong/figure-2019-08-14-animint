@@ -1,0 +1,6 @@
+fill	tooltip	key	group	showSelectedlegendcolourfill	showSelected1	colour
+#CAB2D6	model=baseline_0 selection=random	baseline_0 random	1	baseline_0	random	#CAB2D6
+#1F78B4	model=L1reg_linear_all selection=random	L1reg_linear_all random	2	L1reg_linear_all	random	#1F78B4
+#E31A1C	model=unreg_linear_1 selection=random	unreg_linear_1 random	3	unreg_linear_1	random	#E31A1C
+#6A3D9A	model=unreg_linear_2 selection=random	unreg_linear_2 random	4	unreg_linear_2	random	#6A3D9A
+#FB9A99	model=unsup_BIC_1 selection=random	unsup_BIC_1 random	5	unsup_BIC_1	random	#FB9A99

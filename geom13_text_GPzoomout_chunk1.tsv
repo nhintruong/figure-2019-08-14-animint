@@ -1,0 +1,4 @@
+x	y	key	label	showSelected1	showSelected2	group
+10	21.3157894736842	1	median=82.3% at size=10 for best random baseline	random	profileSize/3	1
+10	36.3157894736842	1	median=93.9% at size=10 for best random baseline	random	sequenceID/1	2
+10	26.3157894736842	1	median=96.7% at size=10 for best random baseline	random	sequenceID/4	3

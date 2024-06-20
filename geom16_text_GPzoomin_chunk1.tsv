@@ -1,0 +1,4 @@
+x	y	key	label	showSelected1	group
+2	100	1	6 GP models for test fold profileSize/3	profileSize/3	1
+2	100	1	4 GP models for test fold sequenceID/1	sequenceID/1	2
+2	100	1	2 GP models for test fold sequenceID/4	sequenceID/4	3

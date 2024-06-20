@@ -1,0 +1,7 @@
+fill	tooltip	key	group	showSelectedlegendcolourfill	showSelected1	colour
+#CAB2D6	model=baseline_0 selection=GP	baseline_0 GP	1	baseline_0	GP	#CAB2D6
+#000000	model=GP selection=GP	GP GP	2	GP	GP	#000000
+#1F78B4	model=L1reg_linear_all selection=GP	L1reg_linear_all GP	3	L1reg_linear_all	GP	#1F78B4
+#E31A1C	model=unreg_linear_1 selection=GP	unreg_linear_1 GP	4	unreg_linear_1	GP	#E31A1C
+#6A3D9A	model=unreg_linear_2 selection=GP	unreg_linear_2 GP	5	unreg_linear_2	GP	#6A3D9A
+#FB9A99	model=unsup_BIC_1 selection=GP	unsup_BIC_1 GP	6	unsup_BIC_1	GP	#FB9A99

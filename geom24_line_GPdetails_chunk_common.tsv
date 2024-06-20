@@ -1,0 +1,7 @@
+colour	linetype	tooltip	key	group	showSelectedlegendcolourfill	showSelectedlegendlinetype
+#CAB2D6	solid	model=baseline_0 selection=GP	baseline_0 GP	1	baseline_0	GP
+#000000	solid	model=GP selection=GP	GP GP	2	GP	GP
+#1F78B4	solid	model=L1reg_linear_all selection=GP	L1reg_linear_all GP	3	L1reg_linear_all	GP
+#E31A1C	solid	model=unreg_linear_1 selection=GP	unreg_linear_1 GP	4	unreg_linear_1	GP
+#6A3D9A	solid	model=unreg_linear_2 selection=GP	unreg_linear_2 GP	5	unreg_linear_2	GP
+#FB9A99	solid	model=unsup_BIC_1 selection=GP	unsup_BIC_1 GP	6	unsup_BIC_1	GP

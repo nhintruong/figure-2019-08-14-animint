@@ -1,0 +1,6 @@
+colour	linetype	tooltip	key	group	showSelectedlegendcolourfill	showSelectedlegendlinetype
+#CAB2D6	22	model=baseline_0 selection=random	baseline_0 random	1	baseline_0	random
+#1F78B4	22	model=L1reg_linear_all selection=random	L1reg_linear_all random	2	L1reg_linear_all	random
+#E31A1C	22	model=unreg_linear_1 selection=random	unreg_linear_1 random	3	unreg_linear_1	random
+#6A3D9A	22	model=unreg_linear_2 selection=random	unreg_linear_2 random	4	unreg_linear_2	random
+#FB9A99	22	model=unsup_BIC_1 selection=random	unsup_BIC_1 random	5	unsup_BIC_1	random

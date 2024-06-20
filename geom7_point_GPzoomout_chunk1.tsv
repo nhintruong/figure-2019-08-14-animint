@@ -1,0 +1,13 @@
+x	y	key	clickSelects	showSelected1	showSelected2
+10	71.875	GP_LIN	GP_LIN	GP	profileSize/3
+10	93.75	GP_logistic_EP	GP_logistic_EP	GP	profileSize/3
+10	95.8333333333333	GP_Erf_EP_testtailored	GP_Erf_EP_testtailored	GP	profileSize/3
+10	95.8333333333333	GP_matlab	GP_matlab	GP	profileSize/3
+10	96.875	GP_Erf_EP_testtailored_2	GP_Erf_EP_testtailored_2	GP	profileSize/3
+10	96.875	GP_logistic_EP_testtailored	GP_logistic_EP_testtailored	GP	profileSize/3
+10	82.1052631578947	GP_Erf_EP_testtailored	GP_Erf_EP_testtailored	GP	sequenceID/1
+10	85.0877192982456	GP_logistic_EP_testtailored	GP_logistic_EP_testtailored	GP	sequenceID/1
+10	89.8245614035088	GP_Erf_EP_testtailored_2	GP_Erf_EP_testtailored_2	GP	sequenceID/1
+10	90.5263157894737	GP_logistic_EP	GP_logistic_EP	GP	sequenceID/1
+10	94.7368421052632	GP_SE	GP_SE	GP	sequenceID/4
+10	95.4385964912281	GP_LIN	GP_LIN	GP	sequenceID/4

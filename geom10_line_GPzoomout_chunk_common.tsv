@@ -1,0 +1,8 @@
+linetype	key	group	showSelectedlegendlinetype	clickSelects
+solid	GP_Erf_EP_testtailored	1	GP	GP_Erf_EP_testtailored
+solid	GP_Erf_EP_testtailored_2	2	GP	GP_Erf_EP_testtailored_2
+solid	GP_LIN	3	GP	GP_LIN
+solid	GP_logistic_EP	4	GP	GP_logistic_EP
+solid	GP_logistic_EP_testtailored	5	GP	GP_logistic_EP_testtailored
+solid	GP_matlab	6	GP	GP_matlab
+solid	GP_SE	7	GP	GP_SE

@@ -1,0 +1,13 @@
+x	y	key	label	showSelected1	showSelected2	group
+2	100	1	GP_LIN and baselines for test fold profileSize/3	profileSize/3	GP_LIN	3
+2	100	1	GP_logistic_EP and baselines for test fold profileSize/3	profileSize/3	GP_logistic_EP	4
+2	100	1	GP_Erf_EP_testtailored and baselines for test fold profileSize/3	profileSize/3	GP_Erf_EP_testtailored	1
+2	100	1	GP_matlab and baselines for test fold profileSize/3	profileSize/3	GP_matlab	6
+2	100	1	GP_Erf_EP_testtailored_2 and baselines for test fold profileSize/3	profileSize/3	GP_Erf_EP_testtailored_2	2
+2	100	1	GP_logistic_EP_testtailored and baselines for test fold profileSize/3	profileSize/3	GP_logistic_EP_testtailored	5
+2	100	1	GP_Erf_EP_testtailored and baselines for test fold sequenceID/1	sequenceID/1	GP_Erf_EP_testtailored	7
+2	100	1	GP_logistic_EP_testtailored and baselines for test fold sequenceID/1	sequenceID/1	GP_logistic_EP_testtailored	10
+2	100	1	GP_Erf_EP_testtailored_2 and baselines for test fold sequenceID/1	sequenceID/1	GP_Erf_EP_testtailored_2	8
+2	100	1	GP_logistic_EP and baselines for test fold sequenceID/1	sequenceID/1	GP_logistic_EP	9
+2	100	1	GP_SE and baselines for test fold sequenceID/4	sequenceID/4	GP_SE	12
+2	100	1	GP_LIN and baselines for test fold sequenceID/4	sequenceID/4	GP_LIN	11

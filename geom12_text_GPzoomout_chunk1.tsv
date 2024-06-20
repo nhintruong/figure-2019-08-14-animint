@@ -1,0 +1,13 @@
+x	y	key	label	clickSelects	showSelected1	showSelected2	group
+10	16.3157894736842	GP_LIN	median=71.9% at size=10 for GP_LIN	GP_LIN	GP	profileSize/3	5
+10	26.3157894736842	GP_logistic_EP	median=93.8% at size=10 for GP_logistic_EP	GP_logistic_EP	GP	profileSize/3	7
+10	31.3157894736842	GP_Erf_EP_testtailored	median=95.8% at size=10 for GP_Erf_EP_testtailored	GP_Erf_EP_testtailored	GP	profileSize/3	1
+10	36.3157894736842	GP_matlab	median=95.8% at size=10 for GP_matlab	GP_matlab	GP	profileSize/3	11
+10	41.3157894736842	GP_Erf_EP_testtailored_2	median=96.9% at size=10 for GP_Erf_EP_testtailored_2	GP_Erf_EP_testtailored_2	GP	profileSize/3	3
+10	46.3157894736842	GP_logistic_EP_testtailored	median=96.9% at size=10 for GP_logistic_EP_testtailored	GP_logistic_EP_testtailored	GP	profileSize/3	9
+10	16.3157894736842	GP_Erf_EP_testtailored	median=82.1% at size=10 for GP_Erf_EP_testtailored	GP_Erf_EP_testtailored	GP	sequenceID/1	2
+10	21.3157894736842	GP_logistic_EP_testtailored	median=85.1% at size=10 for GP_logistic_EP_testtailored	GP_logistic_EP_testtailored	GP	sequenceID/1	10
+10	26.3157894736842	GP_Erf_EP_testtailored_2	median=89.8% at size=10 for GP_Erf_EP_testtailored_2	GP_Erf_EP_testtailored_2	GP	sequenceID/1	4
+10	31.3157894736842	GP_logistic_EP	median=90.5% at size=10 for GP_logistic_EP	GP_logistic_EP	GP	sequenceID/1	8
+10	16.3157894736842	GP_SE	median=94.7% at size=10 for GP_SE	GP_SE	GP	sequenceID/4	12
+10	21.3157894736842	GP_LIN	median=95.4% at size=10 for GP_LIN	GP_LIN	GP	sequenceID/4	6
